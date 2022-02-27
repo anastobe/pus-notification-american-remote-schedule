@@ -37,6 +37,7 @@ const mainScreen = ({ navigation, route }) => {
       <SafeAreaView style={styles.SafeAreaView2}>
          <Header />
 
+    <Text>code of anas</Text>  
     <Text>code of anas</Text>   
        
         <View style={[styles.outerWrapper,{padding: 20 }]}>
