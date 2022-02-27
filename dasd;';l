@@ -1,0 +1,18 @@
+[33mcommit c008e2bac5bd5953a715587beaa1896fc269a7c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Anas Ahmed <anastobe968@gmail.com>
+Date:   Sun Feb 27 11:10:40 2022 +0500
+
+    fifth
+
+[1mdiff --git a/src/screens/TodoScreens/mainScreen.js b/src/screens/TodoScreens/mainScreen.js[m
+[1mindex e4382dd..03ff103 100644[m
+[1m--- a/src/screens/TodoScreens/mainScreen.js[m
+[1m+++ b/src/screens/TodoScreens/mainScreen.js[m
+[36m@@ -40,6 +40,7 @@[m [mconst mainScreen = ({ navigation, route }) => {[m
+     <Text>code of anas</Text>  [m
+     <Text>code of anas</Text>   [m
+     <Text>code of anas</Text>   [m
+[32m+[m[32m    <Text>code of anas</Text>[m[41m   [m
+     <Text>code of anas</Text>   [m
+        [m
+         <View style={[styles.outerWrapper,{padding: 20 }]}>[m
