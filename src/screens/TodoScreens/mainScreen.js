@@ -39,6 +39,7 @@ const mainScreen = ({ navigation, route }) => {
 
     <Text>code of anas</Text>  
     <Text>code of anas</Text>   
+    <Text>code of anas</Text>   
        
         <View style={[styles.outerWrapper,{padding: 20 }]}>
         <ScrollView>
