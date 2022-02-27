@@ -29,13 +29,16 @@ const mainScreen = ({ navigation, route }) => {
   // const{token} = route.params
   // console.log("token=>",token)
 
-
-    return (
+  
+  return (
     <>
   <StatusBar barStyle="dark-content" backgroundColor={'#f4f4f4'} />
       <SafeAreaView style={styles.SafeAreaView1} />
       <SafeAreaView style={styles.SafeAreaView2}>
          <Header />
+
+    <Text>code of anas</Text>   
+       
         <View style={[styles.outerWrapper,{padding: 20 }]}>
         <ScrollView>
          <View>
